@@ -1,0 +1,10 @@
+D:\Study\Visual Project\DemoCoCaro\DemoCoCaro\bin\Debug\DemoCoCaro.exe.config
+D:\Study\Visual Project\DemoCoCaro\DemoCoCaro\bin\Debug\DemoCoCaro.exe
+D:\Study\Visual Project\DemoCoCaro\DemoCoCaro\bin\Debug\DemoCoCaro.pdb
+D:\Study\Visual Project\DemoCoCaro\DemoCoCaro\obj\Debug\DemoCoCaro.Properties.Resources.resources
+D:\Study\Visual Project\DemoCoCaro\DemoCoCaro\obj\Debug\DemoCoCaro.csproj.GenerateResource.cache
+D:\Study\Visual Project\DemoCoCaro\DemoCoCaro\obj\Debug\DemoCoCaro.csproj.CoreCompileInputs.cache
+D:\Study\Visual Project\DemoCoCaro\DemoCoCaro\obj\Debug\DemoCoCaro.exe
+D:\Study\Visual Project\DemoCoCaro\DemoCoCaro\obj\Debug\DemoCoCaro.pdb
+D:\Study\Visual Project\DemoCoCaro\DemoCoCaro\obj\Debug\DemoCoCaro.frmCoCaro.resources
+D:\Study\Visual Project\DemoCoCaro\DemoCoCaro\obj\Debug\DemoCoCaro.csprojAssemblyReference.cache
